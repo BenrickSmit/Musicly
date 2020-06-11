@@ -1,0 +1,4 @@
+This Program requires the following packages:
+"eyed3"
+"tkinter" (pip install python3-tk)
+
